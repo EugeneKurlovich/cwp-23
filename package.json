@@ -1,0 +1,15 @@
+{
+  "name": "cwp-23",
+  "private": true,
+  "workspaces": [
+    "mendeleev",
+    "mendeleev-stringify",
+    "mendeleev-master"
+  ],
+  "version": "1.0.0",
+  "description": "cwp-23",
+  "main": "index.js",
+  "repository": "https://github.com/EugeneKurlovich/cwp-23.git",
+  "author": "EugeneKurlovich <zhenikpggkurlovich@gmail.com>",
+  "license": "MIT"
+}

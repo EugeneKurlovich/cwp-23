@@ -1,0 +1,7 @@
+{
+    "name": "mendeleev-stringify",
+    "version": "1.0.0",  
+  "dependencies": {
+    "mendeleev": "1.0.0"
+  }
+}
